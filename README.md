@@ -19,5 +19,6 @@
 - A partir d'ara per no ficarme al bin posare git commit -m "Titol descriptiu"
 - Ara ficu les branques de cada asignatura amb:
 git branch nomAsignatura i per comprobar les branques ficu git branch.
-- Per poder mourer-me per s'es branques pos: git checkout nomBranca
- 
+- Per poder mourer-me per les branques pos: git checkout nomBranca
+- Dins de cada branca he utilitzat el comandament vim nomArxiu per crea el seu arxiu html amb la seva descripcio. Despres e fet el git add i el git commit de cada une de les branques.
+- Per acabar me possat a la branca master i he fet merge amb cadacuna de les branques per juntarles am la branca master.
