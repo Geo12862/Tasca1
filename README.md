@@ -1,4 +1,4 @@
-# Tasca1
+# Tasca1 (treball de classe ED)
 ***
 ## Contingut
 1. [Pases a seguir]
@@ -16,4 +16,8 @@
 - Al posar un git commit, quan he agregat els 2 arxius, me indica que em idenfiqui.
 - Me demana que fiqui el email i l'usuari
 - Faig una altre vegada el git commit i m'obre un bin, on pos de titol Tasca1, despres pitjo la tecla esc i ficu el comandament :wq per sortir del bin, i me surt en pantalla que s'han canviat 2 arxius i m'ha creat aquest 2 arxius.
-- 
+- A partir d'ara per no ficarme al bin posare git commit -m "Titol descriptiu"
+- Ara ficu les branques de cada asignatura amb:
+git branch nomAsignatura i per comprobar les branques ficu git branch.
+- Per poder mourer-me per s'es branques pos: git checkout nomBranca
+ 
