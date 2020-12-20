@@ -51,4 +51,8 @@ git branch nomAsignatura i per comprobar les branques ficu git branch.
 - Vaig comensar feren tot al Visual Studio Code i no vaix sebre com ficar les branques una vegada fet tota la part web a un projecte en el git i nomes me surtia tot en el directori master.
 Aixi que vaig comensar desde un principi tot el projecte amb les caracteristiques que es demanaven.
 - Aquest projecte esta en catala, pero al ferlo amb un teclat angles no he pogut possar accents ni c trancada, lo qual aquesta l'he canviada per una s normal.
+
+### Comentari personal
+   A sigut ben entretingut, pero m'ha faltat alguns criteris en l'enunciat, degut que no he fet branca del tot contingut dins les branques filles i no se si era correcte o no,
+que no se si l'html es correcte i per ara me pareix que encara me falta qualca coneixement per poder fer tot el que passa pel meu cap. Pero per la resta ha estat be, encara que he fet servir tutorials de youtube per poder fer la tasque i aixo lleva bastant de temps. (https://youtu.be/HiXLkL42tMU)
 ***
