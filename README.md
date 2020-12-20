@@ -1,12 +1,35 @@
 # Tasca1 (treball de classe ED)
 ***
-## Contingut
-1. [Pases a seguir]
-2. [README.md]
-3. [Branques Asignatures]
-4. [Comandes utilitzades]
+## Descripcio
+IMPORTANT: Totes les comandes de git que utilitzeu s'han de fer a traves de la terminal.
+
+1 - Crear una pàgina web a github pages amb un index.html que contingui un llistat de totes les assignatures de primer del cicle formatiu que esteu cursant.
+
+2 - Crear per cada una dels mòduls una branca de git al vostre repositori local, després en aquesta branca crear l'arxiu html del mòdul posant el títol i una breu descripció del mòdul.
+
+     Veure les branques
+          git branch
+
+     Crear una nova branca a partir de la branca en qué esteu
+          git branch nom_branca
+
+     Crear una nova branca a partir de la master
+          git branch nom_branca nom_branca_master
+
+     Entrar a una branca determinada
+          git checkout nom_branca
+
+     Una vegada hem acabat els canvis hem de fer un merge a master local
+          Primer feim el checkout a la branca que volem fer el merge
+               git checkout master
+
+          Després feim el merge.
+               git merge nom_branca
+
+3 - Pujar tots els canvis de la branca master al github per poder visualitzar la vostra web.
 ***
-1. Pases a seguir
+## Contingut
+### Pases a seguir
 - Me ficu en el cmd de git Bash
 - Introdueix cd i la direccio dorigen del projecte Tasca1
 - Amb el programa Atom he creat dins la carperta Tasca1 un index.html i un README.md, que el puc comprobar en el git Bash amb el comandament ls.
@@ -22,3 +45,10 @@ git branch nomAsignatura i per comprobar les branques ficu git branch.
 - Per poder mourer-me per les branques pos: git checkout nomBranca
 - Dins de cada branca he utilitzat el comandament vim nomArxiu per crea el seu arxiu html amb la seva descripcio. Despres e fet el git add i el git commit de cada une de les branques.
 - Per acabar me possat a la branca master i he fet merge amb cadacuna de les branques per juntarles am la branca master.
+- Per finalitzar feim un git push per pujarlo al github.
+
+### Error fets en el projecte
+- Vaig comensar feren tot al Visual Studio Code i no vaix sebre com ficar les branques una vegada fet tota la part web a un projecte en el git i nomes me surtia tot en el directori master.
+Aixi que vaig comensar desde un principi tot el projecte amb les caracteristiques que es demanaven.
+- Aquest projecte esta en catala, pero al ferlo amb un teclat angles no he pogut possar accents ni c trancada, lo qual aquesta l'he canviada per una s normal.
+***
