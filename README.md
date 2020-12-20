@@ -45,7 +45,7 @@ git branch nomAsignatura i per comprobar les branques ficu git branch.
 - Per poder mourer-me per les branques pos: git checkout nomBranca
 - Dins de cada branca he utilitzat el comandament vim nomArxiu per crea el seu arxiu html amb la seva descripcio. Despres e fet el git add i el git commit de cada une de les branques.
 - Per acabar me possat a la branca master i he fet merge amb cadacuna de les branques per juntarles am la branca master.
-- Per finalitzar feim un git push per pujarlo al github.
+- Per finalitzar feim un git push per pujarlo al github amb cada branca, les branques que no hi eran al principe es crearan.
 
 ### Error fets en el projecte
 - Vaig comensar feren tot al Visual Studio Code i no vaix sebre com ficar les branques una vegada fet tota la part web a un projecte en el git i nomes me surtia tot en el directori master.
